@@ -11,7 +11,7 @@ passwall: https://github.com/xiaorouji/openwrt-passwall
 r8125最新驱动：https://github.com/goldkeyber112/openwrt-r8125
 r8168最新驱动：https://github.com/BROBIRD/openwrt-r8168 不是最新
 
-需要勾选ddns：https://github.com/sensec/ddns-scripts_aliyun 不是最新
+需要勾选ddns bind-host：https://github.com/sensec/ddns-scripts_aliyun 不是最新
 aliyuan ddns支持：
 
 其它推荐的内置包
